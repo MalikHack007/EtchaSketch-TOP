@@ -1,0 +1,14 @@
+.sketchPad{
+    --sketchPadSize: 600px;
+    display:flex;
+    flex-wrap: wrap;
+    height: var(--sketchPadSize);
+    width: var(--sketchPadSize);
+    border-color: rgb(8, 138, 213);
+    border-width: 8px;
+    border-style: solid;
+}
+
+.smallGrid{
+
+}
